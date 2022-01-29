@@ -1,1 +1,3 @@
 # Quantum-Computing-Research
+## Abstract 
+The study seeks to explore quantum computing. However, this initial report provides the history of quantum computing since the inception of the concept in 1982 by Richard Feynman. It covers a brief review of the development of the first quantum physical system, the theory of quantum computation, and the first quantum model for computation that describes what would be a universal quantum computer. It also covers the historical timelines in which the universal quantum Turing machine with polynomial efficiency was constructed, the introduction of quantum algorithms, and quantum error correction schemes. Finally, the report provides the topical issues under quantum computing that are expected under the full essay paper. 
